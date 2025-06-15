@@ -1,6 +1,6 @@
 # Stress Dynamics in Evacuations: A Vicsek Model Simulation
 
-Full PDF report found [here](./FFR120__Project_Report.pdf)
+📄 Full PDF available [here](./FFR120__Project_Report.pdf)
 
 # Abstract
 
